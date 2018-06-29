@@ -11,4 +11,4 @@ The repository containing ideas for future projects
 - [ ] Android App for calculating caffine consumption, with sexy design, see [Retro Music Player](https://github.com/h4h13/RetroMusicApp/blob/master/README.md)
 
 ###### iDEA 4:
-- [ ] Calculator when counting the amount of money in the register, mobile website.
+- [ ] Calculator centered around counting the amount of money in the register, mobile website.
