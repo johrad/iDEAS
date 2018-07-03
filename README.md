@@ -12,3 +12,6 @@ The repository containing ideas for future projects
 
 ###### iDEA 4:
 - [ ] Calculator centered around counting the amount of money in the register, mobile website.
+
+###### iDEA 5:
+- [ ] Windows program ([C#](https://docs.microsoft.com/en-us/dotnet/csharp/)) used for automating mouse settings when connecting mice (fuck mouse acceleration).
