@@ -15,3 +15,9 @@ The repository containing ideas for future projects
 
 ###### iDEA 5:
 - [ ] Windows program ([C#](https://docs.microsoft.com/en-us/dotnet/csharp/)) used for automating mouse settings when connecting mice (fuck mouse acceleration).
+
+###### iDEA 6:
+- [ ] [Rich prescence](https://discordapp.com/rich-presence) for Microsoft Office.
+
+###### iDEA 7:
+- [ ] Plugin for Anki, using [Sans Forgetica](https://sansforgetica.rmit/) font insteada of normal
